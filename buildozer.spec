@@ -15,9 +15,8 @@ android.permissions = INTERNET, WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE
 android.api = 33
 android.minapi = 21
 android.ndk = 25b
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 
-# NDK / SDK 자동 승인 및 환경 설정
 android.accept_sdk_license = True
 p4a.branch = master
 
